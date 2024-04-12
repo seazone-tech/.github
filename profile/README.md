@@ -1,6 +1,6 @@
 # 🚀 Khanto Tecnologia
 
-Somos uma organização dedicada a fornecer soluções inovadoras em diversas áreas de atuação.
+Somos uma organização dedicada a fornecer soluções inovadoras em diversas áreas de atuação focadas no mercado de aluguel por temporada.
 
 ## 📊 Estatísticas da Organização
 
@@ -17,12 +17,6 @@ Nosso SAPRON foi desenvolvido para atender às necessidades operacionais especí
 
 ### 🌐 Website de Reservas
 Temos um website de reservas dedicado para facilitar o processo de reserva para nossos clientes.
-
-### 🏦 Marketplace
-Nossa área de Marketplace se concentra na venda de imóveis com potencial para o mercado de aluguel por temporada.
-
-### 💼 Negócios
-Nossa área de Negócios está sempre em busca de novas oportunidades.
 
 ### 💰 Revenue Management
 Nosso setor de Revenue Management se concentra na precificação estratégica de todos os imóveis que administramos.
