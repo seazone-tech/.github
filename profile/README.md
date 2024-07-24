@@ -1,4 +1,4 @@
-# 🚀 Khanto Tecnologia
+# 🚀 Seazone
 
 Somos uma organização dedicada a fornecer soluções inovadoras em diversas áreas de atuação focadas no mercado de aluguel por temporada.
 
